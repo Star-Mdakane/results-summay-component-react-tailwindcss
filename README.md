@@ -43,15 +43,25 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Star-Mdakane/results-summay-component-react-tailwindcss.git)
+- Live Site URL: [Add live site URL here](https://results-summay-component-react-tail.vercel.app/)
 
 ## My process
 
+1. As it is my first time attempting react and still trying to get hold of tailwindcss, I will try to start with a static site wthout breaking it into components, then I will style it for different screen sizes and will later play wit components.
+2. Nothing to write home about. The card I did it as I created the other solutions with the use of tailwindcss.
+3. Next I will be moving to components, then I will get to witness the power of react.
+4. My first component, took the card from the app div, made a component jsx file and added it.
+5. I used map array method for the list and props.
+Problems encounrered
+- The json file did not have the background and text colors so I edited it.
+- The bg color on the list items did not appear for the second and thirrd child for no apparent reason, I cut the json file content aand pasted it again.
+- I had forgotten how to inject the js on the classlist styling.
+
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Semantic JSX markup
+- CSS custom properties / Tailwindcss 
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
@@ -110,9 +120,9 @@ Describe how you used AI tools (if any) during this project. This helps demonstr
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://results-summay-component-react-tail.vercel.app/)
+- Frontend Mentor - [@Star-Mdakane](https://www.frontendmentor.io/profile/Star-Mdakane)
+- Twitter - [@KidStarMadrad](https://www.twitter.com/KidStarMadrad)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
